@@ -1,0 +1,19 @@
+utils::globalVariables(c(
+  "Df_Ingredient1_f",
+  "Df_Ingredient2_f",
+  "Df_Ingredient3_f",
+  "Id",
+  "Ingredient1",
+  "Ingredient1_f",
+  "Ingredient2",
+  "Ingredient2_f",
+  "Ingredient3",
+  "Ingredient3_f",
+  "delta",
+  "ingredient1",
+  "ingredient2",
+  "ingredient3",
+  "x1",
+  "x2",
+  "x3"
+))
