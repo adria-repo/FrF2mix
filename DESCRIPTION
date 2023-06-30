@@ -3,7 +3,6 @@ Type: Package
 Title: Create a fractional factorial design with mixture constraints
 Version: 0.1.2
 Authors@R: person("Jonathan", "Thévenot", email = "jonathan.thevenot@adria.fr", role = c("aut", "cre"))
-Maintainer: The package maintainer <yourself@somewhere.net>
 Description: Create a DoE combining process and mixing factors, easily dealing with any mixture constraints for 3 ingredients within the framework of fractional factorial designs.
 License: GPL (>= 3)
 Encoding: UTF-8
