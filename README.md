@@ -14,7 +14,7 @@ This R package proposes a simple, generic and efficient approach to combine proc
 
 This project has received funding provided by national sources (Regional council of Brittany, France; GUDP, Denmark; GSRI, Greece) and co-funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 862665 ICT-AGRI-FOOD.
 
-## ⏬: Installation
+## ⏬ Installation
 Install the FrF2mix package via GitHub repository.
 
 ``` r
