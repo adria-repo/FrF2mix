@@ -7,7 +7,7 @@
   [![](https://img.shields.io/badge/devel%20version-0.1.2-blue.svg)](https://github.com/adria-repo/FrF2mix)
   <!-- badges: end -->
   
-
+## PLAN P project
 
 The PLAN P project - spectral tools and digitalisation for the development of sustainable structured food with plant proteins - aims to develop a smart and innovative system in order to design sustainable food and control quality online during production and shelf life. In order to accelerate the plant food transition, a digital solution will be developed for the conception and production of sustainable food based on plant proteins.
 
