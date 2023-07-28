@@ -18,7 +18,7 @@ This project has received funding provided by national sources (Regional council
 Install the FrF2mix package via GitHub repository.
 
 ``` r
-# install.package("devtools")
+# install.package("devtools") #In case you have not installed it.
 devtools::install_github("adria-repo/FrF2mix")
 ```
 
