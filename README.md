@@ -1,4 +1,4 @@
-<a><img src='[resources/logo-utilitR.svg](https://github.com/adria-repo/Stickers/blob/main/PLAN%20P/planp.png)' align="right" height="139px" /></a>
+<a><img src='[planp.png](https://github.com/adria-repo/Stickers/blob/main/PLAN P/planp.png)' align="right" height="139px" /></a>
 
   <!-- badges: start -->
   [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
