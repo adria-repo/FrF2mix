@@ -1,3 +1,7 @@
+  <!-- badges: start -->
+  [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+  <!-- badges: end -->
+  
 # FrF2mix
 
 The PLAN P project - spectral tools and digitalisation for the development of sustainable structured food with plant proteins - aims to develop a smart and innovative system in order to design sustainable food and control quality online during production and shelf life. In order to accelerate the plant food transition, a digital solution will be developed for the conception and production of sustainable food based on plant proteins.
